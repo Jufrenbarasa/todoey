@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Mockup
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/todoey/master/Todoey%20Mockup/Todoey%20Mockup-1.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/todoey/master/Todoey%20Mockup/Todoey%20Mockup-2.png"/></td>
+  </tr>
+</table>
