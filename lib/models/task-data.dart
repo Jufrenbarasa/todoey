@@ -4,9 +4,9 @@ import 'dart:collection';
 
 class TaskData extends ChangeNotifier {
   List<Task> _tasks = [
-    Task(name: 'Mobile Programming'),
-    Task(name: 'Machine Learning'),
-    Task(name: 'Augmented Reality'),
+    Task(name: 'Beli susu'),
+    Task(name: 'Buy eggs'),
+    Task(name: 'Buy bread'),
   ];
 
   UnmodifiableListView<Task> get tasks {
